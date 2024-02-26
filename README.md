@@ -1,3 +1,3 @@
-# Simple Linear Regression Models 
+# Linear Regression Models 
 
 This project focused on utilizing the R language to develop a straightforward predictive model using Linear Regression. The main objective was to gain insights into the functionality of Linear Regression Models and to efficiently utilize R for this purpose, particularly exploring Simple Linear Regression and Multiple Linear Regression Models. The emphasis throughout the project was on acquiring a fundamental understanding of these models. Additionally, the project aimed to utilize publicly available data and build these models based on it. Moreover, the project also aimed to better understand how predictive models powerful and flexible tools for can be making decisions.
